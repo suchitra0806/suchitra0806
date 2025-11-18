@@ -1,8 +1,10 @@
-👋 Hi, I'm Suchitra Rajkumar  
-🎓 B.Tech CSE | Incoming MS CS (IIT, Fall 2025)  
-⚙️ Tech Stack: Java, Python, JavaScript, HTML, CSS, Git, MySQL  
-🔍 Focus Areas: AI Systems, Cybersecurity, Cloud & Big Data  
-🛠️ Building scalable, secure, and intelligent applications  
+<h2>Hi<h2>
+
+👋 I'm Suchitra Rajkumar  
+🎓 CSE Graduate | MS CS Student (2025)  
+🧪 Exploring AI, cybersecurity, and high-performance systems  
+📁 This GitHub showcases my projects, experiments, and learning journey  
+
 
 
 # 💻 Tech Stack:
