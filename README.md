@@ -13,7 +13,7 @@ My main tech stack: <br>
 <li>Databases: MySQL, PostgreSQL <br></li>
 </ul>
 
-I'm currently learning Python and SQL in the context of data analysis and AI.
+I'm currently working on a movie application using React Native.
 
 When I'm not staring at my computer, I'm likely reading, writing, or sketching.
 
