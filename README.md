@@ -9,7 +9,7 @@ Aside from going to classes and keeping up with assignments, you'll find me buil
 My main tech stack: <br>
 <ul>
 <li>Languages: Java, Python, JavaScript, TypeScript, HTML/CSS</li>
-<li>Frameworks: React, Angular, Node.js <br></li>
+<li>Frameworks: React, Angular, NodeJS <br></li>
 <li>Databases: MySQL, PostgreSQL <br></li>
 </ul>
 
