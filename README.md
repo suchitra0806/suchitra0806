@@ -15,6 +15,8 @@ My main tech stack: <br>
 
 When I'm not staring at my computer, I'm likely reading, writing, or sketching.
 
+I'm currently working on improving my AI skills and how to implement it with real-world applications.
+
 Let's connect 🤎
 <ul>
 <li>https://suchitra0806.github.io/My-Portfolio/</li>
