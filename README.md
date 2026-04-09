@@ -8,9 +8,11 @@ Aside from going to classes and keeping up with assignments, you'll find me buil
 
 My main tech stack: <br>
 <ul>
-<li>Languages: Java, Python, JavaScript, TypeScript, HTML/CSS</li>
-<li>Frameworks: React, Angular, NodeJS <br></li>
-<li>Databases: MySQL, PostgreSQL <br></li>
+<li>Languages: Java, C/C++, Python, JavaScript, TypeScript</li>
+<li>Frameworks & Libraries: React, Angular, SpringBoot, Node.js, TensorFlow, PyTorch, Next.js, Vite<br></li>
+<li>Cloud Platforms: Amazon Web Services (AWS) Certified<br></li>
+<li>DevOps & Tools: Git/GitHub, CI/CD, VS Code, JIRA, Postman, Agile, Docker, Cursor, Claude, GitHub Copilot<br></li>
+<li>Databases: SQL (MySQL, PostgreSQL)<br></li>
 </ul>
 
 When I'm not staring at my computer, I'm likely reading, writing, or sketching.
