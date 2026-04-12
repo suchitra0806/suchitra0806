@@ -11,7 +11,7 @@ My main tech stack: <br>
 <li>Languages: Java, C/C++, Python, JavaScript, TypeScript</li>
 <li>Frameworks & Libraries: React, Angular, SpringBoot, Node.js, TensorFlow, PyTorch, Next.js, Vite<br></li>
 <li>Cloud Platforms: Amazon Web Services (AWS) Certified<br></li>
-<li>DevOps & Tools: Git/GitHub, CI/CD, VS Code, JIRA, Postman, Agile, Docker, Cursor, Claude, GitHub Copilot<br></li>
+<li>DevOps & Tools: Git/GitHub, CI/CD, VS Code, JIRA, Postman, Agile, Docker, Supabase, Cursor, Claude, GitHub Copilot<br></li>
 <li>Databases: SQL (MySQL, PostgreSQL)<br></li>
 </ul>
 
