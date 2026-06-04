@@ -2,9 +2,9 @@
 
 I'm Suchitra.
 
-I'm currently pursuing my Master’s in Computer Science at Illinois Institute of Technology. 
+I'm currently pursuing my Master’s in Computer Science at Illinois Institute of Technology. I'm currently interning at Fulcrum Defense Inc.
 
-Aside from going to classes and keeping up with assignments, you'll find me building highly functional webapps and a pinterest-worthy desk setup that almost makes the debugging seem peaceful.
+Aside from going to classes and keeping up with assignments (and summer internship work), you'll find me building highly functional webapps and a pinterest-worthy desk setup that almost makes the debugging seem peaceful.
 
 My main tech stack: <br>
 <ul>
